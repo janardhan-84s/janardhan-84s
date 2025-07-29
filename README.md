@@ -10,5 +10,5 @@
 
 📚 Let’s connect and learn together. I believe tech should be human-friendly — and I’m here to prove it.
 
-🔗 [Follow me for more insights and experiments in DevOps.](#)
--->
+
+
