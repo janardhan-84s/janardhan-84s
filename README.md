@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm **Janardhan Rao Maroju**, a curious and enthusiastic **DevOps Engineer** ##
 
-👋 Hi there! I'm **Janardhan Rao Maroju**, a curious and enthusiastic **DevOps Engineer** with a knack for automation, containerization, and simplifying complex tech through clear communication.
+with a knack for automation, containerization, and simplifying complex tech through clear communication.
 
 🚀 With hands-on experience in tools like Docker, Terraform, Ansible, and AWS, I thrive on building robust, scalable infrastructure. My favorite playgrounds? Shell scripts, cloud-native deployments, and pipelines that just work.
 
