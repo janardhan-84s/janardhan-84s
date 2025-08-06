@@ -1,3 +1,5 @@
+![MasterHead](https://www.globalsign.com/application/files/8716/8451/0374/Devsecops_GIF.gif)
+
 ## Hi there 👋 I'm **Janardhan Rao Maroju**, a curious and enthusiastic **DevOps Engineer** ##
 
 with a knack for automation, containerization, and simplifying complex tech through clear communication.
