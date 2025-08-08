@@ -15,14 +15,11 @@
 - [![Email](https://img.shields.io/badge/Email-janardhanj265@gmail.com-blue?logo=gmail&style=flat-square)](mailto:janardhanj265@gmail.com)
 
 - I have knowledge on below tools
-- [![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker&style=flat-square)](https://www.docker.com/)
-- [![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes&style=flat-square)](https://kubernetes.io/)
-- [![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform&logoColor=white&style=for-the-badge)](https://www.terraform.io/)
-- [![Ansible](https://img.shields.io/badge/Ansible-Automation-black?logo=ansible&logoColor=white&style=for-the-badge)](https://www.ansible.com/)
-- [![Linux](https://img.shields.io/badge/Linux-OS-FCC624?logo=linux&logoColor=black&style=for-the-badge)](https://www.kernel.org/)
-- [![Shell Script](https://img.shields.io/badge/Shell-Scripting-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)](https://www.gnu.org/software/bash/)
 
-
-
-
+<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" width="40" /></a>
+<a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kubernetes.svg" width="40" /></a>
+<a href="https://www.terraform.io/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/terraform.svg" width="40" /></a>
+<a href="https://www.ansible.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ansible.svg" width="40" /></a>
+<a href="https://www.kernel.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" width="40" /></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gnubash.svg" width="40" /></a>
 
