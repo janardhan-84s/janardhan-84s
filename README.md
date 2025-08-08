@@ -12,7 +12,7 @@
 
 - 📫 How to reach me ****
 - [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/janardhan-rao-maroju/)
-- [![Email](https://img.shields.io/badge/Email-marojurao%40example.com-blue?logo=gmail&style=flat-square)](mailto:janardhanj265@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-janardhanj265@gmail.com-blue?logo=gmail&style=flat-square)](mailto:janardhanj265@gmail.com)
 
 - I have knowledge on below tools
 - [![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker&style=flat-square)](https://www.docker.com/)
