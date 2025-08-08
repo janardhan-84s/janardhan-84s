@@ -12,15 +12,17 @@
 
 - 📫 How to reach me ****
 
-<a href="https://www.linkedin.com/in/janardhan-rao-maroju/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" />
+
+<a href="https://www.linkedin.com/in/janardhan-rao-maroju/" target="_blank">
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="30"/>
 </a> janardhan-rao-maroju
 
 <br/>
 
 <a href="mailto:janardhanj265@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" />
+  <img src="https://img.icons8.com/color/48/gmail.png" width="30"/>
 </a> janardhanj265@gmail.com
+
 
 - I have knowledge on below tools
 
