@@ -6,7 +6,7 @@
 
 - 🔭 I’m DevOps Enthusiastic
 
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
+- 🌱 I’m currently learning **DevSecOps**
 
 - 📝 I regularly write articles on [https://medium.com/@janaj72888]
 
@@ -26,10 +26,24 @@
 
 - I have knowledge on below tools
 
-<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" width="40" /></a>
-<a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kubernetes.svg" width="40" /></a>
-<a href="https://www.terraform.io/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/terraform.svg" width="40" /></a>
-<a href="https://www.ansible.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ansible.svg" width="40" /></a>
-<a href="https://www.kernel.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" width="40" /></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gnubash.svg" width="40" /></a>
+<p align="left">
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" width="40" />
+  </a>
+  <a href="https://kubernetes.io/">
+    <img src="https://skillicons.dev/icons?i=kubernetes" width="40" />
+  </a>
+  <a href="https://www.terraform.io/">
+    <img src="https://skillicons.dev/icons?i=terraform" width="40" />
+  </a>
+  <a href="https://www.ansible.com/">
+    <img src="https://skillicons.dev/icons?i=ansible" width="40" />
+  </a>
+  <a href="https://www.kernel.org/">
+    <img src="https://skillicons.dev/icons?i=linux" width="40" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://skillicons.dev/icons?i=bash" width="40" />
+  </a>
+</p>
 
