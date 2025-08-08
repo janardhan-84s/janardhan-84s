@@ -1,7 +1,7 @@
 
 ![MasterHead](https://www.globalsign.com/application/files/8716/8451/0374/Devsecops_GIF.gif)
 <h1 align="center">Hi 👋, I'm Janardhan Rao Maroju</h1>
-<h3 align="center">A passionate Devops Engineer from India. I work in corporate IT Sector.</h3>
+<h3 align="center">A passionate Devops Engineer from India. I worked as DevOps Engineer.</h3>
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 - 🔭 I’m DevOps Enthusiastic
@@ -11,8 +11,16 @@
 - 📝 I regularly write articles on [https://medium.com/@janaj72888]
 
 - 📫 How to reach me ****
-- [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/janardhan-rao-maroju/)
-- [![Email](https://img.shields.io/badge/Email-janardhanj265@gmail.com-blue?logo=gmail&style=flat-square)](mailto:janardhanj265@gmail.com)
+
+<a href="https://www.linkedin.com/in/janardhan-rao-maroju/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" />
+</a> janardhan-rao-maroju
+
+<br/>
+
+<a href="mailto:janardhanj265@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" />
+</a> janardhanj265@gmail.com
 
 - I have knowledge on below tools
 
