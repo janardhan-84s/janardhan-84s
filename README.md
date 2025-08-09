@@ -5,7 +5,27 @@
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 # 💫 About Me:
-🔭 I’m DevOps Enthusiastic<br><br>🌱 I’m currently learning DevSecOps<br><br>📝 I regularly write articles on [https://medium.com/@janaj72888]<br><br>📫 How to reach me ****<br><br>Linkedin: janardhan-rao-maroju<br>Gmail :  janardhanj265@gmail.com<br>I have knowledge on below tools<br>Ansible, Terraform,Docker,shell script, Linux Kubernetes<br>     
+🔭 I’m DevOps Enthusiastic<br><br>🌱 I was worked as a Analyst-2 software engineer in DXC Technologies, Noida<br><br>📝 I regularly write articles on [https://medium.com/@janaj72888]<br><br>📫 How to reach me ****<br><br>Linkedin: janardhan-rao-maroju<br>Gmail :  janardhanj265@gmail.com<br>I have knowledge on below tools
+<p align="left">
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" width="40" />
+  </a>
+  <a href="https://kubernetes.io/">
+    <img src="https://skillicons.dev/icons?i=kubernetes" width="40" />
+  </a>
+  <a href="https://www.terraform.io/">
+    <img src="https://skillicons.dev/icons?i=terraform" width="40" />
+  </a>
+  <a href="https://www.ansible.com/">
+    <img src="https://skillicons.dev/icons?i=ansible" width="40" />
+  </a>
+  <a href="https://www.kernel.org/">
+    <img src="https://skillicons.dev/icons?i=linux" width="40" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://skillicons.dev/icons?i=bash" width="40" />
+  </a>
+</p>
 
 
 ## 🌐 Socials:
